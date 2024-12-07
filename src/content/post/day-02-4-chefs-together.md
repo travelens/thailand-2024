@@ -6,7 +6,7 @@ trip: Thailand 2024
 place: Thailand
 timezone: Asia/Bangkok
 location: Chefs Together
-image: ../../assets/day-02-central-festival/01_Central_Festival.jpg
+image: ../../assets/day-02-dinner/18_Chefs_Together.jpg
 gallery: day-02-central-festival
 map: [18.783903832802014, 99.00349669554622, 17]
 tags:

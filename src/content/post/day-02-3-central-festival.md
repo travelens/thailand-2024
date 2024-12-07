@@ -1,5 +1,5 @@
 ---
-title: 'Day 2: Cenrtral Festival and Warorot Market'
+title: 'Day 2: Central Festival and Warorot Market'
 date: 2024-11-13T16:00:00+07:00
 description: 'We had lunch and did some shopping at Central Festival, and then headed to Warorot Market to buy some traditional Thai costumes for the Loy Krathong Festival.'
 trip: Thailand 2024
