@@ -1,14 +1,14 @@
 ---
-title: 'Day 1: Flight to Chieng Mai'
-date: 2024-05-01T07:00:00+07:00
+title: 'Day 1: Flight to Chiang Mai'
+date: 2024-11-12T07:21:00+07:00
 description: We had a pleasant checkin experience, had breakfast at the AMEX lounge, before boarding a flight to Bangkok. We stopped for 3 hours in Bangkok which was enough time, before boarding a flight to Chieng Mai. We arrived safely and checked into an AirBNB house for our stay here.
 trip: Thailand 2024
 place: Thailand
 timezone: Asia/Bangkok
-location: Chieng Mai
+location: Chiang Mai
 image: ../../assets/day-01-flight/07_Plane.jpg
 gallery: day-01-flight
-map: [18.803227, 98.970455, 17]
+map: [18.803261,98.970924, 17]
 tags:
   - Sydney Airport
   - AMEX Lounge
